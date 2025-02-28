@@ -60,7 +60,7 @@ plt.show()
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/b42db94b-73ea-4aaa-b462-ab0da8bdbffb)
+![image](https://github.com/user-attachments/assets/88cd0170-2eb5-4977-9198-5639782ed189)
 
 
 
